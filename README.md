@@ -3,4 +3,5 @@ My notes and solutions for [Google Data Analytics Professional Certificate](http
 
 There are 8 Courses in this Professional Certificate:
 1) Foundations: Data, Data, Everywhere
+
 (in progress)
